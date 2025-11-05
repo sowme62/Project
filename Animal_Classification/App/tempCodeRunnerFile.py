@@ -1,0 +1,1 @@
+model = models.resnet50(pretrained=False)
